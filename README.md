@@ -22,7 +22,7 @@ Now we will use bit and web3 for our coins and create three functions to execute
 The first function we will call priv_key_to_account and will convert the child key to an account<br>
 object that python library can use<br>
 
-![priv_key_to_account](https://github.com/dowdlea86/wallet/blob/main/png_file/priv_ket_to_account.png)
+![priv_ket_to_account](https://github.com/dowdlea86/wallet/blob/main/png_file/priv_ket_to_account.png)
 
 We then need to create a raw unsigned transaction that contains all our data and parameters needed<br>
 to actually transact:<br>
