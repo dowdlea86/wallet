@@ -40,11 +40,11 @@ Now we can send some transactions.  In this case we are manually setting an acco
 BTC in it.  Otherwise you can use a testnet faucet to fund an account.  The code is simply calling<br>
 the functions we created above.<br>
 
-![transaction(https://github.com/dowdlea86/wallet/blob/main/png_file/transaction.png)
+![transaction](https://github.com/dowdlea86/wallet/blob/main/png_file/transaction.png)
 
 We can then check if our BTC testnet transaction was succesful by looking in a block explorer.<br>
 
-![btctest_transaction(https://github.com/dowdlea86/wallet/blob/main/png_file/btctest_transaction.png)
+![btctest_transaction](https://github.com/dowdlea86/wallet/blob/main/png_file/btctest_transaction.png)
 
 The above code can also be used to send ETH and we can further write in code for other coin like
 LTC.<br>
