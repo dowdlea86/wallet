@@ -2,7 +2,7 @@
 
 Building a portfolio management system that supports multiple crypto-assets.  The wallet is built with the<br>
 hd-wallet-derive tool.  The project also requires the python library for Bitcoin and Ethereum, "bit" and<br>
-"web3.py".  The wallet can execute addresses across multiple coins but in this case we will demonstrate<br>
+"web3.py".  The wallet can execute transactions across multiple coins but in this case we will demonstrate<br>
 it's effectiveness on BTC Testnet.  We will need to write python code in the background to integrate our<br>
 wallet and an outline of the code as follows:<br>
 
